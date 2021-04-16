@@ -1,0 +1,16 @@
+.Summary{
+    display: table;
+    margin: 20px auto;
+    width: 75%;    
+}
+.utility-cards{
+    display: flex;
+    margin: 20px auto;
+    min-width: 250px;
+}
+.SecondCol{
+    text-align:right;
+}
+.text-align-center{
+    text-align: center;
+}

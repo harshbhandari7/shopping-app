@@ -1,0 +1,11 @@
+.no-auth-card{
+    display: flex;
+    width: 35%;
+    margin: 200px auto;
+}
+.login-button{
+    display: flex;
+    width: 25%;
+    margin: auto;
+    justify-content: center;
+}

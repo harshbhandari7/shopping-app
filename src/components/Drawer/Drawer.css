@@ -1,0 +1,20 @@
+.drawer{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    height: 0;
+    z-index: 1;
+    bottom: 0;
+    width: 100%;
+    background-color: #172337;
+    color: white;
+    justify-content: space-evenly;
+    overflow:hidden;
+    transition: 1s;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.animate{
+    height: 250px;
+}

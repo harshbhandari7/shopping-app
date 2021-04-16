@@ -1,0 +1,24 @@
+.card-wrapper{
+    display: flex;
+    margin: 20px 0; 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.card{
+    margin: 10px;
+    width: 325px;
+    border-radius: 25px;
+}
+.CardImg{
+    width: 10rem;
+    height: 12rem;
+    display: flex;
+    margin: 0 auto;
+}
+.button-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text-center{
+    text-align: center;
+}
